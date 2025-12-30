@@ -9,3 +9,4 @@
 - Steam: [MR_Vopros](https://steamcommunity.com/id/MR_Vopros/)
 
 > Personality (if someone needs it): ESTJ
+- practice scripts
