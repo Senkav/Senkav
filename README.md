@@ -9,4 +9,18 @@
 - Steam: [MR_Vopros](https://steamcommunity.com/id/MR_Vopros/)
 
 > Personality (if someone needs it): ESTJ
-practice scripts
+
+---
+
+## Dota 2 Custom Announcer
+
+Simple client-side script that replaces the default Dota 2 announcer with a custom one.
+
+### Installation
+
+1. Put the `announcer.lua` file into:  
+   `Ваш диск:\Папка чита\scripts`  
+2. Go to:  
+   `...\dota 2 beta\game\dota\sounds`  
+3. Create folder `pick_me_announcer` and unpack all sound files there.  
+4. Launch Dota 2 with your software and **enable client-side scripts (ВСО)**.
