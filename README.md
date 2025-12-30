@@ -23,4 +23,4 @@ Simple client-side script that replaces the default Dota 2 announcer with a cust
 2. Go to:  
    `...\dota 2 beta\game\dota\sounds`  
 3. Create folder `pick_me_announcer` and unpack all sound files there.  
-4. Launch Dota 2 with your software and **enable client-side scripts (ВСО)**.
+4. Launch Dota 2 with your software and **enable client-side scripts (Все)**.
